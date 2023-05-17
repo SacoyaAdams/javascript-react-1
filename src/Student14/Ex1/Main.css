@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: lightgray
+ 
+}
+
+#Header :nth-child(1) {
+    background-color:burlywood;
+    padding: 5px 0px
+}
+
+#Header :nth-child(2) {
+    background-color:lightcoral;
+    padding: 5px 0px
+}
+
+h1 {
+    background-color:aqua;
+    padding: 10px 0px
+}
+
+
+.Food {
+    background: lemonchiffon;
+
+}
+
+.drink {
+    background-color: lightblue;
+}
+
+.dessert {
+    background-color:lightpink;
+}
+
+#Footer {
+    background-color:lightgreen;
+    padding: 5px 0px;
+
+}
+
+ul li {
+    padding: 5px 0px;
+
+}
